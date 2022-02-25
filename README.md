@@ -22,8 +22,9 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas | Descrição |
-| ----- | --------- |
+| Aulas                            | Descrição                                  |
+| -------------------------------- | ------------------------------------------ |
+| [aula-1-3](../../commit/dfb8f3f) | Introdução e Fundamentos - Create Database |
 
 ## Autor
 
