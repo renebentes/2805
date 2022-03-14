@@ -22,10 +22,11 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas                            | Descrição                                  |
-| -------------------------------- | ------------------------------------------ |
-| [aula-1-3](../../commit/dfb8f3f) | Introdução e Fundamentos - Create Database |
-| [aula-1-4](../../commit/c0fcbc2) | Introdução e Fundamentos - Create Table    |
+| Aulas                            | Descrição                                   |
+| -------------------------------- | ------------------------------------------- |
+| [aula-1-3](../../commit/dfb8f3f) | Introdução e Fundamentos - Create Database  |
+| [aula-1-4](../../commit/c0fcbc2) | Introdução e Fundamentos - Create Table     |
+| [aula-1-5](../../commit/6d057da) | Introdução e Fundamentos - Alter/Drop Table |
 
 ## Autor
 
