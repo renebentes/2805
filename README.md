@@ -22,15 +22,16 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas                            | Descrição                                         |
-| -------------------------------- | ------------------------------------------------- |
-| [aula-1-3](../../commit/dfb8f3f) | Introdução e Fundamentos - Create Database        |
-| [aula-1-4](../../commit/c0fcbc2) | Introdução e Fundamentos - Create Table           |
-| [aula-1-5](../../commit/6d057da) | Introdução e Fundamentos - Alter/Drop Table       |
-| [aula-1-6](../../commit/1ad4643) | Introdução e Fundamentos - Constraints - Not Null |
-| [aula-1-7](../../commit/c404193) | Introdução e Fundamentos - Constraints - Unique   |
-| [aula-1-8](../../commit/34ef56e) | Introdução e Fundamentos - Primary Key            |
-| [aula-1-9](../../commit/47d5ad1) | Introdução e fundamentos - Composite Key          |
+| Aulas                             | Descrição                                         |
+| --------------------------------- | ------------------------------------------------- |
+| [aula-1-3](../../commit/dfb8f3f)  | Introdução e Fundamentos - Create Database        |
+| [aula-1-4](../../commit/c0fcbc2)  | Introdução e Fundamentos - Create Table           |
+| [aula-1-5](../../commit/6d057da)  | Introdução e Fundamentos - Alter/Drop Table       |
+| [aula-1-6](../../commit/1ad4643)  | Introdução e Fundamentos - Constraints - Not Null |
+| [aula-1-7](../../commit/c404193)  | Introdução e Fundamentos - Constraints - Unique   |
+| [aula-1-8](../../commit/34ef56e)  | Introdução e Fundamentos - Primary Key            |
+| [aula-1-9](../../commit/47d5ad1)  | Introdução e Fundamentos - Composite Key          |
+| [aula-1-10](../../commit/04d8364) | Introdução e Fundamentos - Índices                |
 
 ## Autor
 
