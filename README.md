@@ -29,7 +29,8 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-5](../../commit/6d057da) | Introdução e Fundamentos - Alter/Drop Table       |
 | [aula-1-6](../../commit/1ad4643) | Introdução e Fundamentos - Constraints - Not Null |
 | [aula-1-7](../../commit/c404193) | Introdução e Fundamentos - Constraints - Unique   |
-| [aula-1-8](../../commit/34ef56e) | Introdução e FUndamentos - Primary Key            |
+| [aula-1-8](../../commit/34ef56e) | Introdução e Fundamentos - Primary Key            |
+| [aula-1-9](../../commit/47d5ad1) | Introdução e fundamentos - Composite Key          |
 
 ## Autor
 
