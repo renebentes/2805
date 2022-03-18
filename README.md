@@ -32,6 +32,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-8](../../commit/34ef56e)  | Introdução e Fundamentos - Primary Key            |
 | [aula-1-9](../../commit/47d5ad1)  | Introdução e Fundamentos - Composite Key          |
 | [aula-1-10](../../commit/04d8364) | Introdução e Fundamentos - Índices                |
+| [aula-1-11](../../commit/11b6104) | Introdução e Fundamentos - Identity               |
 
 ## Autor
 
