@@ -34,6 +34,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-10](../../commit/04d8364) | Introdução e Fundamentos - Índices                |
 | [aula-1-11](../../commit/11b6104) | Introdução e Fundamentos - Identity               |
 | [aula-1-12](../../commit/e04a483) | Introdução e Fundamentos - Insert                 |
+| [aula-1-13](../../commit/f15ca8e) | Introdução e Fundamentos - Select                 |
 
 ## Autor
 
