@@ -1,11 +1,9 @@
--- Não otimizado
-SELECT * FROM [Curso];
-
--- Retorna os 10 primeiros
-SELECT TOP 10 * FROM [Curso];
-
--- Delimitando as colunas a trazer, mais otimizado
+-- Usar as colunas de seleção na mesma ordem no Where
+-- torna a consulta mais otimizada
 SELECT TOP 10
-    [Id], [Nome]
+    [Id], [Nome], [CategoriaId]
 FROM
     [Curso]
+WHERE
+    [Id] = 1 OR
+    [CategoriaId] >= 1
