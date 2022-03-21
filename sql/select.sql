@@ -1,9 +1,8 @@
--- Usar as colunas de seleção na mesma ordem no Where
--- torna a consulta mais otimizada
+-- ASC - do menor para o maior - padrão
+-- DESC - do maior para o menor
 SELECT TOP 10
     [Id], [Nome], [CategoriaId]
 FROM
     [Curso]
-WHERE
-    [Id] = 1 OR
-    [CategoriaId] >= 1
+ORDER BY
+    [Nome] DESC
