@@ -1,3 +1,9 @@
+-- INNER JOIN - Junção interna - intersecção
+-- LEFT [ OUTER ] JOIN - Junção externa esquerda - retorna todos da esquerda
+-- RIGHT [ OUTER ] JOIN - Junção externa direita - retorna todos da direita
+-- FULL [ OUTER ] JOIN - Junção externa completa - retorna todos
+-- CROSS JOIN - União cruzada - retorna a combinação para cada linha entre as tabelas - Produto cartesiano
+
 SELECT TOP 10
     [Curso].[Id],
     [Curso].[Nome],
@@ -5,5 +11,5 @@ SELECT TOP 10
     [Categoria].[Nome],
 FROM
     [Curso]
-INNER JOIN [Categoria] ON
+FULL OUTER JOIN [Categoria] ON
     [Curso].[CategoriaId] = [Categoria].[Id]
