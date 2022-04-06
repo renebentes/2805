@@ -53,6 +53,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-29](../../commit/ca32354) | Introdução e Fundamentos - Variáveis              |
 | [aula-2-1](../../commit/5d4dcbd)  | Mão na Massa - Iniciando o banco                  |
 | [aula-2-2](../../commit/d787749)  | Mão na Massa - Criando as tabelas - Parte 1       |
+| [aula-2-3](../../commit/b0362d2)  | Mão na Massa - Criando as tabelas - Parte 2       |
 
 ## Autor
 
