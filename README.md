@@ -47,6 +47,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-23](../../commit/4120204) | Introdução e Fundamentos - Left Join              |
 | [aula-1-24](../../commit/f88d279) | Introdução e Fundamentos - Union                  |
 | [aula-1-25](../../commit/6cd3a8c) | Introdução e Fundamentos - Group By               |
+| [aula-1-26](../../commit/aa077bf) | Introdução e Fundamentos - Having                 |
 
 ## Autor
 
