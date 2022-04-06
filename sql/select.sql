@@ -8,3 +8,5 @@ INNER JOIN [Curso] ON
 GROUP BY
     [Categoria].[Nome],
     [Curso].[CategoriaId] AS [Cursos]
+HAVING
+    COUNT([Curso].[CategoriaId]) > 1
