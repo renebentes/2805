@@ -1,8 +1,9 @@
--- ASC - do menor para o maior - padrão
--- DESC - do maior para o menor
+-- SUM - Somar
+-- AVG - média
+-- COUNT - quantos registros
+-- MIN - menor valor
+-- MAX - marior valor
 SELECT TOP 10
-    [Id], [Nome], [CategoriaId]
+    COUNT([Id])
 FROM
     [Curso]
-ORDER BY
-    [Nome] DESC
