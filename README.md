@@ -52,6 +52,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-28](../../commit/79b589d) | Introdução e Fundamentos - Stored Procedures      |
 | [aula-1-29](../../commit/ca32354) | Introdução e Fundamentos - Variáveis              |
 | [aula-2-1](../../commit/5d4dcbd)  | Mão na Massa - Iniciando o banco                  |
+| [aula-2-2](../../commit/d787749)  | Mão na Massa - Criando as tabelas - Parte 1       |
 
 ## Autor
 
