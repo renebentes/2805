@@ -40,7 +40,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-16](../../commit/69fb110) | Introdução e Fundamentos - Update                 |
 | [aula-1-17](../../commit/bf7ea51) | Introdução e Fundamentos - Delete                 |
 | [aula-1-18](../../commit/e86827e) | Introdução e Fundamentos - MIN, MAX, COUNT        |
-| [aula-1-19](../../commit/80a349a) | Introdução e Fundamentos - LIKE                   |
+| [aula-1-19](../../commit/b4fecbd) | Introdução e Fundamentos - LIKE                   |
 | [aula-1-20](../../commit/60047a8) | Introdução e Fundamentos - IN, BETWEEN            |
 
 ## Autor
