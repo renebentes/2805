@@ -42,6 +42,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-18](../../commit/e86827e) | Introdução e Fundamentos - MIN, MAX, COUNT        |
 | [aula-1-19](../../commit/b4fecbd) | Introdução e Fundamentos - LIKE                   |
 | [aula-1-20](../../commit/60047a8) | Introdução e Fundamentos - IN, BETWEEN            |
+| [aula-1-21](../../commit/a13954e) | Introdução e Fundamentos - Alias                  |
 
 ## Autor
 
