@@ -1,9 +1,9 @@
--- SUM - Somar
--- AVG - média
--- COUNT - quantos registros
--- MIN - menor valor
--- MAX - marior valor
+-- '%texto' - pesquisa por registro terminando com o que está após o %
+-- 'texto%' - pesquisa por registro iniciando com o que está antes o %
+-- 'texto%' - pesquisa por registro que contenha o que está entre os %
 SELECT TOP 10
-    COUNT([Id])
+    *
 FROM
     [Curso]
+WHERE
+    [Nome] LIKE '%a%';
