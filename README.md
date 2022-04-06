@@ -49,7 +49,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-25](../../commit/6cd3a8c) | Introdução e Fundamentos - Group By               |
 | [aula-1-26](../../commit/aa077bf) | Introdução e Fundamentos - Having                 |
 | [aula-1-27](../../commit/1e3b0fa) | Introdução e Fundamentos - View                   |
-| [aula-1-28](../../commit/79b589d) | Introdução e Fundamentos - Storede Procedures     |
+| [aula-1-28](../../commit/79b589d) | Introdução e Fundamentos - Stored Procedures      |
 
 ## Autor
 
