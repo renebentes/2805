@@ -44,6 +44,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-20](../../commit/60047a8) | Introdução e Fundamentos - IN, BETWEEN            |
 | [aula-1-21](../../commit/78d7a04) | Introdução e Fundamentos - Alias                  |
 | [aula-1-22](../../commit/bf4b1cd) | Introdução e Fundamentos - Joins                  |
+| [aula-1-23](../../commit/4120204) | Introdução e Fundamentos - Left Join              |
 
 ## Autor
 
