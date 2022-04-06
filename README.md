@@ -51,6 +51,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-27](../../commit/1e3b0fa) | Introdução e Fundamentos - View                   |
 | [aula-1-28](../../commit/79b589d) | Introdução e Fundamentos - Stored Procedures      |
 | [aula-1-29](../../commit/ca32354) | Introdução e Fundamentos - Variáveis              |
+| [aula-2-1](../../commit/5d4dcbd)  | Mão na Massa - Iniciando o banco                  |
 
 ## Autor
 
