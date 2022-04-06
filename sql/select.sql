@@ -1,15 +1,14 @@
--- INNER JOIN - Junção interna - intersecção
--- LEFT [ OUTER ] JOIN - Junção externa esquerda - retorna todos da esquerda
--- RIGHT [ OUTER ] JOIN - Junção externa direita - retorna todos da direita
--- FULL [ OUTER ] JOIN - Junção externa completa - retorna todos
--- CROSS JOIN - União cruzada - retorna a combinação para cada linha entre as tabelas - Produto cartesiano
+-- UNION - Unir duas queries (as colunas precisam ser do mesmo tipo de dado)
+-- UNION ALL - Executa um DISTINCT
 
 SELECT TOP 10
-    [Curso].[Id],
-    [Curso].[Nome],
-    [Categoria].[Id] AS [Categoria],
-    [Categoria].[Nome],
+    [Id],
+    [Nome]
 FROM
     [Curso]
-FULL OUTER JOIN [Categoria] ON
-    [Curso].[CategoriaId] = [Categoria].[Id]
+UNION ALL
+SELECT TOP 10
+    [Id],
+    [Nome]
+FROM
+    [Categoria]
