@@ -39,6 +39,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-1-15](../../commit/74b9e5b) | Introdução e Fundamentos - Order By               |
 | [aula-1-16](../../commit/69fb110) | Introdução e Fundamentos - Update                 |
 | [aula-1-17](../../commit/bf7ea51) | Introdução e Fundamentos - Delete                 |
+| [aula-1-18](../../commit/e86827e) | Introdução e Fundamentos - MIN, MAX, COUNT        |
 
 ## Autor
 
