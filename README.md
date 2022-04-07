@@ -57,6 +57,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-2-5](../../commit/4af63f5)  | Mão na Massa - Listando os cursos                 |
 | [aula-2-6](../../commit/c93a3bb)  | Mão na Massa - Listando as carreiras              |
 | [aula-2-7](../../commit/aec91a3)  | Mão na Massa - Inserindo o progresso              |
+| [aula-2-9](../../commit/1987bbd)  | Mão na Massa - Listando cursos e progressos       |
 
 ## Autor
 
