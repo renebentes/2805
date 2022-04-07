@@ -56,6 +56,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-2-3](../../commit/b0362d2)  | Mão na Massa - Criando as tabelas - Parte 2       |
 | [aula-2-5](../../commit/4af63f5)  | Mão na Massa - Listando os cursos                 |
 | [aula-2-6](../../commit/c93a3bb)  | Mão na Massa - Listando as carreiras              |
+| [aula-2-7](../../commit/aec91a3)  | Mão na Massa - Inserindo o progresso              |
 
 ## Autor
 
